@@ -4,6 +4,17 @@ AI XLSX Dashboard Generator _Mylens
 
 AI XLSX Dashboard Generator is an AI-powered data visualization tool that converts Excel (XLSX) files into interactive dashboards automatically. It analyzes uploaded spreadsheet data, identifies important information, and generates useful charts and visualizations.
 
+
+
+
+
+
+
+
+## Dashboard
+<img width="1468" height="722" alt="SALES ANALYSIS" src="https://github.com/user-attachments/assets/528b2806-b134-485b-87f3-e0e3d7e259c7" />
+
+
 ## Key Features
 
 * Upload XLSX/Excel files easily
